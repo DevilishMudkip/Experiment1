@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ooo Website</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1 style="font-family: 'Comic Sans MS'">This is my first video on instagram</h1>
+        <p style="font-family: 'Comic Sans MS'">I'm not wearing a shirt, it's a shirtless jam ohhh yeahhh</p>
+        <img src="instagram.jpg" alt="Its a shirtless jam" width="225" height="225">
+    </body>
+</html>
